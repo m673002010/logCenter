@@ -1,0 +1,30 @@
+{
+  "name": "logcenter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.16.0",
+    "amqplib": "^0.8.0",
+    "log4js": "^6.4.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m673002010/logCenter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m673002010/logCenter/issues"
+  },
+  "homepage": "https://github.com/m673002010/logCenter#readme"
+}
